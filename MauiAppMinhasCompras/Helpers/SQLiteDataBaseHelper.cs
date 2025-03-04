@@ -11,7 +11,7 @@ namespace MauiAppMinhasCompras.Helpers
 
 
 
-        public SQLiteDataBaseHelper(string path) { }
+       
 
         public SQLiteDataBaseHelper(string path)
         {
